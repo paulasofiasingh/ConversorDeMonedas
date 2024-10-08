@@ -31,7 +31,7 @@ El Conversor de Monedas es una aplicación de consola desarrollada en Java que p
 ## Cómo usarlo
 1. Descarga o clona este repositorio en tu máquina local con el siguiente comando:
 
-   git clone https://github.com/usuario/conversor-monedas.git
+   git clone https://github.com/paulasofiasingh/ConversorDeMonedas.git
 
 2- Asegurate de tener Java instalado. Si no lo tenés, podes descargarlo acá https://www.oracle.com/java/technologies/downloads/#java11
 
