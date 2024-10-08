@@ -1,3 +1,5 @@
+![Conversor de Monedas](media/conversorDeMonedas.png)
+
 # Índice
 
 1. [Descripción del proyecto](#descripción-del-proyecto)
