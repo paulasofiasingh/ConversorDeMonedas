@@ -26,7 +26,7 @@ El Conversor de Monedas es una aplicación de consola desarrollada en Java que p
 
 • Cálculo y visualización del valor convertido.
 
-• Interfaz simple y amigable a través de consola.
+• Interfaz simple y amigable a través de la consola.
 
 ## Cómo usarlo
 1. Descarga o clona este repositorio en tu máquina local con el siguiente comando:
